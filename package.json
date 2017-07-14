@@ -1,0 +1,15 @@
+{
+  "name": "drone_safety_bot",
+  "version": "1.0.0",
+  "description": "bot for drone safety",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1"
+  }
+}
